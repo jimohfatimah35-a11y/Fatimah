@@ -8,7 +8,7 @@ In the result, you are going to see:
     - `mean`
     - `median`
     - `mode`
--__Distribution Stats__
+- __Distribution Stats__
     - JB stats
     - Skewness
     - Percentile
